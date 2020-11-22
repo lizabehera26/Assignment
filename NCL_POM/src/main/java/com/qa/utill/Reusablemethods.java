@@ -17,4 +17,5 @@ public class Reusablemethods extends TestBase {
 		String path = "C:\\Practice\\"+ filename ;
 		reports = new ExtentReports(path);
 		}
+	
 }
